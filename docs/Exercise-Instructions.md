@@ -1,7 +1,5 @@
 
-# Exercise: Configuration and Deployment
-
-## Checklist
+# Task List
 
 - [ ] Define a Smoke Test Job
 - [ ] Force an Error
